@@ -24,13 +24,13 @@ Configuración del Pipeline:
 En "Definition", selecciona "Pipeline script from SCM".
 En "SCM", selecciona "Git".
 **Repository URL:** Ingresa la URL de tu repositorio de GitHub.   (MUCHO CUIDADO SOLO HTTPS)
-
-![[Pasted image 20250503170002.png]]
+<img width="1039" alt="image" src="https://github.com/user-attachments/assets/bcd5a6e5-bcfd-45e6-aeef-9a43d161ea7f" />
 
 Credentials +ADD
+<img width="699" alt="image" src="https://github.com/user-attachments/assets/0adf14e8-75c8-4dd2-92e3-4effd6427a50" />
 
-![[Pasted image 20250503165533.png]]
 
 Como hemos elegido un script SCM, Tenemos que indicar el path de nuestro Jenkinfile
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/5f8ca5ae-9632-4d6d-b415-43b08238014c" />
 
-![[Pasted image 20250503170150.png]]
+
