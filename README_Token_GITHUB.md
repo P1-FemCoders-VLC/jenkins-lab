@@ -9,6 +9,8 @@ New personal access token (Classic)
 <img width="696" alt="image" src="https://github.com/user-attachments/assets/d560dd19-4d1a-413e-8f62-fef6f36e4f3c" />
 
 
+
+
 Copiar el token y guardarlo en vuestra password manager !!!!!!!!!!!!!!!!!!!!!!!!!
 <img width="696" alt="image" src="https://github.com/user-attachments/assets/b2dbbc82-981c-456f-963e-22ba8d992920" />
 
