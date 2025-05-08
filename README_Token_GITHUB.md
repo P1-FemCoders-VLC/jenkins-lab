@@ -2,20 +2,23 @@
 Primero debemos crear un Token en GITHUB
 **Settings** > **Developer settings** > **Personal access tokens**.
 
-![[Pasted image 20250503161617.png]]
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/37f30a99-2634-49f8-8346-cfaf6c8c5551" />
+
 
 New personal access token (Classic)
-![[Pasted image 20250503163425.png]]
-![[Pasted image 20250503163443.png]]
+<img width="696" alt="image" src="https://github.com/user-attachments/assets/d560dd19-4d1a-413e-8f62-fef6f36e4f3c" />
+
 
 Copiar el token y guardarlo en vuestra password manager !!!!!!!!!!!!!!!!!!!!!!!!!
-![[Pasted image 20250503163740.png]]
+<img width="696" alt="image" src="https://github.com/user-attachments/assets/b2dbbc82-981c-456f-963e-22ba8d992920" />
+
 
 ### 2. Crea una credencial en Jenkins
 
 Es mas sencillo desde el propio pipeline, esperar a crearlo en la creación del pipeline.
 Crear nuevo pipeline. Nuevo Item; Tipo Pipeline
-![[Pasted image 20250503160718.png]]
+<img width="699" alt="image" src="https://github.com/user-attachments/assets/c05eac7a-444b-411d-9f45-d58b9d8ce14c" />
+
 
 Configuración del Pipeline:
 En "Definition", selecciona "Pipeline script from SCM".
