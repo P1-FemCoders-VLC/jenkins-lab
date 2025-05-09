@@ -46,6 +46,11 @@ RUN usermod -aG sudo jenkins && \
     adduser docker && \ 
     usermod -aG docker jenkins
 
+# Adjust permissions for Docker group to access the Docker socket MacOS
+RUN groupadd -g 999 docker || true && \
+    usermod -aG docker jenkins
+
+
 # Ensure jenkins user exists with empty password
 RUN id -u jenkins &>/dev/null || useradd -m -s /bin/bash jenkins && \
     echo "jenkins:jenkins" | chpasswd && \
